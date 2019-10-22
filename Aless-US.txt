@@ -1,0 +1,3 @@
+1. As a user, I want the possibility to allow other users to take my journey as a reference so that I can get benefits. 
+2. As a user, I want to view holidays made by others, so that I can plan mine. 
+3. As a new user, I want to find an intuitive front-end with clear and concise instructions, so that I can quickly learn how to book and organize my travels. 
