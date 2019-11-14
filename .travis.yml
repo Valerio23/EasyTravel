@@ -3,7 +3,7 @@ jdk:
  - openjdk8
 addons:
  sonarcloud:
-  organization: Valerio23
+  organization: valerio23
   token:
    secure: 98ca99826662cb633f5e731da8e90f6ead54fdcf
 script:
